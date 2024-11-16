@@ -1,0 +1,9 @@
+<!--conponents/test/test.wxml-->
+<!-- <text>conponents/test/test.wxml</text>
+<view style="background-color: rgb({{fullcolor}});" class="colorBox">颜色值：{{fullcolor}}</view>
+<button size="mini" type="default" bindtap="changeR">R</button>
+<button size="mini" type="default" bindtap="changeG">G</button>
+<button size="mini" type="default" bindtap="changeB">B</button>
+<view>{{rgb.r}},{{rgb.g}},{{rgb.b}}</view> -->
+<view>子组件的值count:{{count}}</view>
+<button bindtap="addcount">+1</button>
